@@ -1,0 +1,222 @@
+legado_employee_data = {
+    "1001": {
+        "First Name": "Stuart",
+        "Last Name": "Brandt",
+        "Email": "StuartDBrandt@dxyl.com",
+        "Zip": "19108",
+        "City": "Philadelphia",
+        "Job Title": "Data Analyst",
+        "Department": "Marketing",
+        "Manager": "Norman Holler",
+        "State": "PA"
+    },
+    "1002": {
+        "First Name": "Denise",
+        "Last Name": "Peterson",
+        "Email": "DeniseSPeterson@dxyl.us",
+        "Zip": "89102",
+        "City": "Las Vegas",
+        "Job Title": "Developer",
+        "Department": "Engineering",
+        "Manager": "Henry Charlebois",
+        "State": "NV"
+    },
+    "1003": {
+        "First Name": "Wilma",
+        "Last Name": "Rhodes",
+        "Email": "WilmaRRhodes@dxyl.com",
+        "City": "Phoenix",
+        "Zip": "85001",
+        "Job Title": "Accountant",
+        "Department": "Finance",
+        "Manager": "Steve Kent",
+        "State": "AZ"
+    },
+    "1004": {
+        "First Name": "Irving",
+        "Last Name": "Stewart",
+        "Email": "IrvingAStewart@dxyl.com",
+        "City": "Chicago",
+        "Zip": "60657",
+        "Job Title": "Payroll Processor",
+        "Department": "Finance",
+        "Manager": "Jerry Hayes",
+        "State": "IL"
+    },
+    "1005": {
+        "First Name": "Anthony",
+        "Last Name": "Holiday",
+        "Email": "AnthonyAHoliday@dxyl.com",
+        "City": "Los Angeles",
+        "Zip": "90001",
+        "Job Title": "Marketing Director",
+        "Department": "Marketing",
+        "Manager": "Doris Arellano",
+        "State": "CA"
+    },
+    "1006": {
+        "First Name": "Mary",
+        "Last Name": "Fournier",
+        "Email": "MaryWFournier@dxyl.com",
+        "City": "Hartford",
+        "Zip": "06101",
+        "Job Title": "Sales Engineer",
+        "Department": "Sales",
+        "Manager": "Julio Torres",
+        "State": "CT"
+    },
+    "1007": {
+        "First Name": "Kimberley",
+        "Last Name": "Martel",
+        "Email": "KimberleyKMartel@dxyl.com",
+        "City": "New York",
+        "Zip": "10004",
+        "Job Title": "Tester",
+        "Department": "Engineering",
+        "Manager": "Irma Figgs",
+        "State": "NY"
+    },
+    "1008": {
+        "First Name": "Luciano",
+        "Last Name": "Wayne",
+        "Email": "LucianoPWayne@dxyl.com",
+        "City": "Mansura",
+        "Zip": "71350",
+        "Job Title": "Scrum Master",
+        "Department": "Engineering",
+        "Manager": "Kris Strouse",
+        "State": "DE"
+    },
+    "1009": {
+        "First Name": "Tyler",
+        "Last Name": "Smith",
+        "Email": "TylerMSmith@dxyl.com",
+        "City": "Columbus",
+        "Zip": "43213",
+        "Job Title": "Project Manager",
+        "Department": "Engineering",
+        "Manager": "Ricky Joseph",
+        "State": "OH"
+    },
+    "1010": {
+        "First Name": "Concordia",
+        "Last Name": "Ansley",
+        "Email": "cansley0@dxyl.com",
+        "City": "Baltimore",
+        "Zip": "21201",
+        "Job Title": "Software Test Engineer I",
+        "Department": "Engineering",
+        "Manager": "Alisun Disetti",
+        "State": "MD"
+    },
+    "1011": {
+        "First Name": "Alisun",
+        "Last Name": "Dionisetti",
+        "Email": "adionisetti1@dxyl.com",
+        "City": "Miami",
+        "Zip": "33124",
+        "Job Title": "Budget Analyst",
+        "Department": "Sales",
+        "Manager": "Mindy Wellbeloved",
+        "State": "FL"
+    },
+    "1012": {
+        "First Name": "Mindy",
+        "Last Name": "Tabart",
+        "Email": "mtabart2@dxyl.com",
+        "City": "Chicago",
+        "Zip": "60601",
+        "Job Title": "Trainer",
+        "Department": "L & D",
+        "Manager": "Shurlock Pickard",
+        "State": "IL"
+    },
+    "1013": {
+        "First Name": "Shurlock",
+        "Last Name": "Simonard",
+        "Email": "ssimonard3@dxyl.com",
+        "City": "Boston",
+        "Zip": "02101",
+        "Job Title": "Sr. Trainer",
+        "Department": "L & D",
+        "Manager": "Cathlene Tabart",
+        "State": "MA"
+    },
+    "1014": {
+        "First Name": "Cathlene",
+        "Last Name": "Wellbeloved",
+        "Email": "cwellbeloved4@dxyl.com",
+        "City": "Cleveland",
+        "Zip": "44101",
+        "Job Title": "Customer Success Associate",
+        "Department": "Services",
+        "Manager": "Bevan Mapson",
+        "State": "OH"
+    },
+    "1015": {
+        "First Name": "Bevan",
+        "Last Name": "Mapson",
+        "Email": "bmapson5@dxyl.com",
+        "City": "Nashville",
+        "Zip": "37201",
+        "Job Title": "Director of Customer Success",
+        "Department": "Services",
+        "Manager": "Amabel Shimony",
+        "State": "TN"
+    },
+    "1016": {
+        "First Name": "Amabel",
+        "Last Name": "Prop",
+        "Email": "aprop6@dxyl.com",
+        "City": "Milwaukee",
+        "Zip": "53201",
+        "Job Title": "Sales Associate",
+        "Department": "Sales",
+        "Manager": "Wilt Prop",
+        "State": "WI"
+    },
+    "1017": {
+        "First Name": "Wilt",
+        "Last Name": "Shimony",
+        "Email": "wshimony7@dxyl.com",
+        "City": "Portland",
+        "Zip": "97201",
+        "Job Title": "Project Manager",
+        "Department": "Engineering",
+        "Manager": "Bonita Scroggs",
+        "State": "OR"
+    },
+    "1018": {
+        "First Name": "Bonita",
+        "Last Name": "Slatter",
+        "Email": "bslatter8@dxyl.com",
+        "City": "Pittsburgh",
+        "Zip": "15201",
+        "Job Title": "Product Manager",
+        "Department": "Product Management",
+        "Manager": "Artur Slatter",
+        "State": "PA"
+    },
+    "1019": {
+        "First Name": "Artur",
+        "Last Name": "Scroggs",
+        "Email": "ascroggs9@dxyl.com",
+        "City": "Austin",
+        "Zip": "78701",
+        "Job Title": "Graphic Designer",
+        "Department": "Design",
+        "Manager": "Curtice Ansley",
+        "State": "TX"
+    },
+    "1020": {
+        "First Name": "Curtice",
+        "Last Name": "Botler",
+        "Email": "cbotlera@dxyl.com",
+        "City": "New Orleans",
+        "Zip": "70112",
+        "Job Title": "Consultant",
+        "Department": "Legal",
+        "Manager": "Concordia Botler",
+        "State": "LA"
+    }
+}
